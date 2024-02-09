@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="PreparationAvalonia/DoctorMenu.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
+        <entry key="PreparationAvalonia/MainWindow.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
+        <entry key="PreparationAvalonia/MedCartPatientWindow.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
+        <entry key="PreparationAvalonia/ViewUserInfoWindow.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
