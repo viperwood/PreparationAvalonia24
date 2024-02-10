@@ -130,3 +130,4 @@ C:\Users\prdb\RiderProjects\PreparationAvalonia\PreparationAvalonia\obj\Debug\ne
 C:\Users\prdb\RiderProjects\PreparationAvalonia\PreparationAvalonia\obj\Debug\net8.0\PreparationAvalonia.csproj.CopyComplete
 C:\Users\prdb\RiderProjects\PreparationAvalonia\PreparationAvalonia\obj\Debug\net8.0\PreparationAvalonia.genruntimeconfig.cache
 C:\Users\prdb\RiderProjects\PreparationAvalonia\PreparationAvalonia\obj\Debug\net8.0\ref\PreparationAvalonia.dll
+C:\Users\prdb\RiderProjects\PreparationAvalonia\PreparationAvalonia\obj\Debug\net8.0\PreparationAvalonia.sourcelink.json

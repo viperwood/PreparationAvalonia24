@@ -15,6 +15,25 @@
                     </DataTemplate>
                 </ComboBox.ItemTemplate>
             </ComboBox>
+            <Button Content="Найти" Click="SerchButton"/>
+            <Border BorderBrush="Black" BorderThickness="1" Name="PanelInfo" IsVisible="False">
+                <StackPanel>
+                    <TextBlock Name="DataissuemcBlock"/>
+                    <TextBlock Name="DataexpirationinsurancepolisyBlock"/>
+                    <TextBlock Name="NumberpolisBlock"/>
+                    <TextBlock Name="PolicyvalidityBlock"/>
+                    <TextBlock Name="PlaceofworknameBlock"/>
+                    <TextBlock Name="InsurancecompanynameBlock"/>
+                    <TextBlock Name="FioBlock"/>
+                    <TextBlock Name="NumberpBlock"/>
+                    <TextBlock Name="SeriespBlock"/>
+                    <TextBlock Name="BirthdayBlock"/>
+                    <TextBlock Name="GendernameBlock"/>
+                    <TextBlock Name="AddressBlock"/>
+                    <TextBlock Name="PhoneBlock"/>
+                    <TextBlock Name="EmailBlock"/>
+                </StackPanel>
+            </Border>
         </StackPanel>
     </Grid>
 </Window>
