@@ -21,6 +21,8 @@ public partial class DoctorMenu : Window
 
     private void MedCart(object? sender, RoutedEventArgs e)
     {
-        
+        MedCartPatientWindow medCartPatientWindow = new MedCartPatientWindow();
+        medCartPatientWindow.Show();
+        Close();
     }
 }
