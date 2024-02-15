@@ -25,6 +25,7 @@ public partial class MainWindow : Window
             List<LoginUserModel> userInfo = JsonConvert.DeserializeObject<List<LoginUserModel>>(content)!.ToList();
             if (userInfo.Count == 1)
             {
+                UserLog.UserLogSistem.Add(userInfo[0].Userid);
                 DoctorMenu doctorMenu = new DoctorMenu();
                 doctorMenu.Show();
                 Close();
