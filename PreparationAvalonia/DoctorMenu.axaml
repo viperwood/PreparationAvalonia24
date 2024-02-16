@@ -9,6 +9,7 @@
         <StackPanel Grid.Column="1" Grid.Row="1">
             <Button Content="Просмотр всей доступной информации о пациенте" Click="ViewUserInfo"/>
             <Button Content="Работа с мед. картой пациента" Click="MedCart"/>
+            <Button Content="История" Click="HistoriCart"/>
         </StackPanel>
     </Grid>
 </Window>

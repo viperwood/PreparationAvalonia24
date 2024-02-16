@@ -4,6 +4,7 @@
     <option name="projectPerEditor">
       <map>
         <entry key="PreparationAvalonia/DoctorMenu.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
+        <entry key="PreparationAvalonia/Histori.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
         <entry key="PreparationAvalonia/MainWindow.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
         <entry key="PreparationAvalonia/MedCartPatientWindow.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />
         <entry key="PreparationAvalonia/ViewUserInfoWindow.axaml" value="PreparationAvalonia/PreparationAvalonia.csproj" />

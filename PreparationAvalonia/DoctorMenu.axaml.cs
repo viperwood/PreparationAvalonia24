@@ -25,4 +25,11 @@ public partial class DoctorMenu : Window
         medCartPatientWindow.Show();
         Close();
     }
+
+    private void HistoriCart(object? sender, RoutedEventArgs e)
+    {
+        Histori histori = new Histori();
+        histori.Show();
+        Close();
+    }
 }

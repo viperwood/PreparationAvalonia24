@@ -23,6 +23,9 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [C:/Users/prdb/RiderProjects/PreparationAvalonia/PreparationAvalonia/DoctorMenu.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/prdb/RiderProjects/PreparationAvalonia/PreparationAvalonia/Histori.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/prdb/RiderProjects/PreparationAvalonia/PreparationAvalonia/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
